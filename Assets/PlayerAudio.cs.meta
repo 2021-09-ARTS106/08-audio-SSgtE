@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f7e907d5034cc4200afb6f24fc5e8087
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splashSound: {instanceID: 0}
+  - audioS: {instanceID: 0}
+  - SplooshSound: {instanceID: 0}
+  - mainMusic: {instanceID: 0}
+  - battleMusic: {instanceID: 0}
+  - AmbIdle: {fileID: -8946580779504978785, guid: 31e6e5ba76f4a40aea8ccd722e815265,
+      type: 2}
+  - AmbIn: {fileID: -8946580779504978785, guid: 31e6e5ba76f4a40aea8ccd722e815265,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
